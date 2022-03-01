@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Right Honourable Henrietta Maria, Lady Wentworth, daughter and heir of Thomas Lord Wentworth, and grandchild and heir of Thomas Earl of Cleveland, an infant in reference to the bill presented to the Honourable House of Commons, for giving the Barons of His Majesties Exchequer, a further power extrajudicially to settle the said Earls estate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10280</idno>
+            <idno type="STC">Wing W1356B</idno>
+            <idno type="STC">ESTC R223210</idno>
+            <idno type="EEBO-CITATION">61297198</idno>
+            <idno type="OCLC">ocm 61297198</idno>
+            <idno type="VID">180694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180694)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2840:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Right Honourable Henrietta Maria, Lady Wentworth, daughter and heir of Thomas Lord Wentworth, and grandchild and heir of Thomas Earl of Cleveland, an infant in reference to the bill presented to the Honourable House of Commons, for giving the Barons of His Majesties Exchequer, a further power extrajudicially to settle the said Earls estate.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cleveland, Thomas Wentworth, --  Earl of, 1591-1667 --  Estate.</term>
+               <term>Wentworth, Henrietta Maria Wentworth, --  Baroness, 1657?-1686 --  Trials, litigation, etc.</term>
+               <term>Claims against decedents' estates --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:180694:1" rendition="simple:additions"/>
+            <head>The Caſe of the Right Honourable <hi>Henrietta Maria,</hi> Lady <hi>Wentworth,</hi> Daughter and Heir of <hi>Thomas</hi> Lord <hi>Wentworth,</hi> and <hi>Gran<g ref="char:EOLhyphen"/>child</hi> and Heir of <hi>Thomas</hi> Earl of <hi>Cleaveland,</hi> an Infant, in reference to the Bill preſented to the Honourable Houſe of Commons, for giving the Barons of His Majeſties Exchequer, a further power extrajudicially to ſettle the ſaid Earls Eſtate.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the ſaid Earl and Lord <hi>Wentworth,</hi> having contracted great Debts, by reaſon of their Loyalty to His Majeſty, and His Royal Father of bleſſed memory, ſecured by Mortgages, Statutes, Judgements, <hi>&amp;c.</hi> which Debts being exceedingly increaſed by length of time at intereſt, and Sequeſtration of the profits; And the Creditors getting into poſſeſſion of their whole Eſtate, ſo that they had nothing left to maintain themſelves, or to proſecute the Creditors to bring them to account, did the 12<hi rend="sup">th.</hi> of His Majeſty that now is, apply themſelves to Parliament, who took their Services and Sufferings into conſide<g ref="char:EOLhyphen"/>ration; and for their relief, did then paſs an Act, by which the Barons of His Majeſties Court of <hi>Exchequer,</hi> were authorized for ſeven years, in a ſummary way, without Bill or Anſwer, to ſtate Accounts between the ſaid Earl and his Creditors; which being done, the Truſtees in the ſaid Act named, were to ſell Land to pay the ſaid Debts in the ſaid Act mentioned.</p>
+            <p>That in the ſaid Act the pretended Debt of 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> to the Lady <hi>Ann Pool,</hi> and <hi>Dorothy,</hi> and <hi>Lucy Withypoole</hi> is not named.</p>
+            <p>That the Earl being adviſed by his Councel, that the powers in the ſaid Act were too ſhort to obtain the ſaid end, did the 13<hi rend="sup">th.</hi> of His Majeſties Reign, prefer another Bill in Parliament, which after it was engroſſed, the <hi>Proviſo</hi> in the ſaid ſecond Act, touching the ſaid pretended Debt, was preſented, but never Committed or Examined; and the Earl to his dying day, did conſtantly affirm, that he owed no ſuch Debt, nor knew how the ſaid <hi>Proviſo</hi> came to be added to the Bill.</p>
+            <p>That by the ſaid <hi>Proviſo,</hi> the pretended Debt of 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> therein mentioned, is not to be paid un<g ref="char:EOLhyphen"/>til the Debts in the ſaid former Acts were firſt ſatisfied.</p>
+            <p>That by another Act, paſſed the 18<hi rend="sup">th.</hi> of His ſaid Majeſties Reign, the ſaid Barons powers was enlarged for two years.</p>
+            <p>That the ſaid Earl during all the time of his life, made it his conſtant buſineſs and labour to bring his affairs to a concluſion by the power the Barons had by virtue of the ſaid Act.</p>
+            <p>But the ſaid Barons found ſo many difficulties in proceeding by the ſaid Act, being out of the or<g ref="char:EOLhyphen"/>dinary courſe of Equity, That nothing was done by them by virtue of the ſaid Acts; but both the Creditors, and the Lady <hi>Wentworth</hi> in the behalf of her Self and her Daughter, were left to the ordinary ways of Equity, both in the <hi>Exchequer</hi> and <hi>Chancery:</hi> Whereupon Decrees did en<g ref="char:EOLhyphen"/>ſue, and the Lady <hi>Wentworth,</hi> by the Credit and Aſſiſtance of her Friends, and by great ſums of Money taken up at intereſt, and great Thrift in living, hath purchaſed in ſome of the Mortgages, and others having eat out themſelves, the Mortgagees have obtained Decrees for their quiet en<g ref="char:EOLhyphen"/>joyment; ſo that during theſe fourteen years ſince the paſſing of the firſt Act, ſome hundreds of Conveyances, Fines, Decrees, and Settlements, have paſſed in the ſaid Eſtate; Purchaſers for valuable conſiderations, and many Infants beſides the Lady <hi>Henrietta Wentworth</hi> are concern'd, and divers Diſcents caſt; ſo that if the Parliament by any Act, ſhould unravel Eſtates ſo long ſince, and for ſuch valuable conſiderations ſettled, no man would dare to purchaſe any thing, nor could tell when he ſhould be ſafe if he did.</p>
+            <p>That during the nine years in which the ſaid Barons had power to proceed in a Summary way, by virtue of the ſaid Acts, Neither the ſaid Lady <hi>Poole,</hi> or Mrs. <hi>Dorothy,</hi> or <hi>Lucy Withypoole,</hi> made any application to the ſaid Barons, or commenced any Suit either in Law or Equity for the ſaid pretended Debt; or ſo much as demanded the ſame of the ſaid Earl (as the Lady <hi>VVentworth</hi> hath ever heard) although he lived above ſix years after the paſſing of the ſaid firſt Act; nor ſince his death hath commenced any Suit againſt the Lady <hi>VVentworth,</hi> or the Lady <hi>Henrietta</hi> her Daughter, or ever demanded the ſame of them or either of them, until about a month ſince, by Mr. <hi>Powell</hi> a Member of the Honourable Houſe of <hi>Commons.</hi> Nor did they ever claim the ſaid Debt at <hi>VVorceſter houſe</hi> in the late uſurped times, where all the ſaid Earl's Creditors did claim their re<g ref="char:EOLhyphen"/>ſpective Debts, and had ſatisfaction ordered them; and neither they, or any other Creditor of the ſaid Earl, need give themſelves the trouble to purſue an Act of Parliament for the ſame, in re<g ref="char:EOLhyphen"/>gard the Courts at <hi>VVestminſter-Hall</hi> are open to them, where they may apply themſelves; And the Lady <hi>VVentworth</hi> and her Daughter will wave her priviledge, and anſwer them, or any of them, either in Law or Equity. And as hitherto they have received no benefit by the ſaid Acts, neither do they deſire any, but are willing they ſhould be repealed, and that themſelves and Cre<g ref="char:EOLhyphen"/>ditors, ſhould be left to the Law.</p>
+            <closer>
+               <hi>And therefore humbly hope and pray, that after all the Miſeries and Sufferings of the Earl of</hi> Cleaveland <hi>and his Family, the Par<g ref="char:EOLhyphen"/>liament will not put ſuch a note of diſtinction upon them from all the reſt of His Majeſties Subjects, but ſuffer them to enjoy the benefit of the Law, as all others do and not provide an unuſual remedy for the Lady</hi> Poole, <hi>or any other Creditor of the ſaid Earl, who have the ſame with all His Majeſties Subjects for the recovery of their Debts.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
